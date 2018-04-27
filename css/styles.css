@@ -49,3 +49,12 @@ button.customBth {
 }
 .text {
 }
+.classified {
+  border: none;
+  background-color: grey;
+  background-size: cover;
+}
+#pic {
+  background-image: url(foodsBg.jpg);
+  background-size: cover;
+}
