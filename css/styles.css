@@ -19,7 +19,7 @@ button.customBtp {
 button.customBtk {
   border: solid;
   background-image: url(dinner2.jpg);
-  background-size: 100%;
+  background-size: cover;
   width: 150px;
   height: 110px;
 }
