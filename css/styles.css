@@ -58,3 +58,6 @@ button.customBth {
   background-image: url(foodsBg.jpg);
   background-size: cover;
 }
+.initially-hidden {
+  display: none;
+}
