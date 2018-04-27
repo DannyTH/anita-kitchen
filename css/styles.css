@@ -53,11 +53,19 @@ button.customBth {
   border: none;
   background-color: grey;
   background-size: cover;
+  width: 300px;
 }
 #pic {
   background-image: url(foodsBg.jpg);
   background-size: cover;
+  padding-top: 150px;
 }
 .initially-hidden {
   display: none;
+  border-color: white;
 }
+.classified1 {
+  border: none;
+  background-color: grey;
+  background-size: cover;
+  width: 150px;
