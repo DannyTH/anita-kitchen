@@ -54,6 +54,7 @@ button.customBth {
   background-color: grey;
   background-size: cover;
   width: 300px;
+  height: 40px;
 }
 #pic {
   background-image: url(foodsBg.jpg);
@@ -62,10 +63,17 @@ button.customBth {
 }
 .initially-hidden {
   display: none;
-  border-color: white;
+  background-color: white;
+  padding-top: 40px;
 }
 .classified1 {
   border: none;
   background-color: grey;
   background-size: cover;
-  width: 150px;
+  width: 180px;
+  height: 40px;
+}
+.white {
+  background-color: white;
+  text-decoration-color: orange;
+}
