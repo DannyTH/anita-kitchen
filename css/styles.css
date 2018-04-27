@@ -2,3 +2,38 @@
   background-image: url(landing.jpg);
   text-align:center;
 }
+button.customBtn {
+  border: solid;
+  background-image: url(breakfast.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 110px;
+}
+button.customBtp {
+  border: solid;
+  background-image: url(lunch.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 110px;
+}
+button.customBtk {
+  border: solid;
+  background-image: url(dinner2.jpg);
+  background-size: 100%;
+  width: 150px;
+  height: 110px;
+}
+button.customBtl {
+  border: none;
+  background-color: orange;
+  background-size: 100%;
+  width: 150px;
+  height: 70px;
+}
+button.customBth {
+  border: none;
+  background-color: white;
+  background-size: 100%;
+  width: 150px;
+  height: 70px;
+}
