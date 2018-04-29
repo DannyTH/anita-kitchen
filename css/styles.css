@@ -1,41 +1,47 @@
+
 .jumbotron {
   background-image: url(landing.jpg);
   text-align:center;
 }
 button.customBtn {
-  border: solid;
   background-image: url(breakfast.jpg);
   background-size: cover;
-  width: 150px;
-  height: 110px;
+  width: 300px;
+  height: 200px;
+  color: white;
+  border-left: black;
+  cursor: pointer;
+
 }
 button.customBtp {
-  border: solid;
   background-image: url(lunch.jpg);
   background-size: cover;
-  width: 150px;
-  height: 110px;
+  width: 300px;
+  height: 200px;
+  color: white;
+  border-left: black;
 }
 button.customBtk {
-  border: solid;
-  background-image: url(dinner2.jpg);
+  background-image: url(dinner.jpg);
   background-size: cover;
-  width: 150px;
-  height: 110px;
+  width: 300px;
+  height: 200px;
+  color: white;
+  border-left: black;
 }
 button.customBtl {
   border: none;
   background-color: darkorange;
   background-size: 100%;
-  width: 150px;
-  height: 70px;
+  width: 300px;
+  height: 80px;
 }
 button.customBth {
   border: none;
   background-color: white;
   background-size: 100%;
-  width: 150px;
-  height: 70px;
+  width: 300px;
+  height: 120px;
 }
 .img1 {
   float: left;
@@ -81,4 +87,94 @@ button.customBth {
   background-size: cover;
   width: 300px;
   height: 40px;
+}
+h5 {
+  text-align: center;
+  color: red;
+}
+h6 {
+  text-align: center;
+}
+.hallo{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+#pit {
+  border: solid;
+  border-color: grey;
+}
+#fit {
+  border-left: solid;
+  border-left-color: grey;
+}
+#legit {
+  padding-left: 100px;
+  padding-top: 30px;
+}
+.let {
+  padding-top: 20px;
+}
+.eros {
+  padding-left: 200px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+#ret {
+  background-image: url(subscribe.jpg);
+  background-size: cover;
+}
+.btn {
+  background-color: orange;
+}
+.jit {
+  color: white;
+}
+.bip {
+  padding-top: 70px;
+  padding-left: 500px;
+  padding-right: 500px;
+}
+#net {
+  float: left;
+}
+#pet {
+  background-color: darkorange;
+  text-align: center;
+}
+#wet {
+  padding-right: 70px;
+  background-color: white;
+}
+#ppit {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+#ttit {
+  padding-bottom: 70px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+#git {
+  display: inline-block;
+  cursor: pointer;
+}
+.bar1, .bar2, .bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+#cet {
+  background-color: black;
+}
+#ket {
+  background-color: white;
+}
+#bit {
+  background-color: white;
 }
